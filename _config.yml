@@ -93,14 +93,6 @@ links:
   #   Color: '#FE2C55'
   #   Icon-Class: fab fa-tiktok
 
-    # MEDIUM
-  - Name: Medium
-    URL: 'https://medium.com'
-    Username: '@harsh98trivedi'
-    Icon-Class: fab fa-medium-m
-    Color: '#00ab6c'
-    Text_Color: '#ffffff'
-
     # CUSTOM LINK
   - Name: Website
     URL: https://bramvandenbussche.be
