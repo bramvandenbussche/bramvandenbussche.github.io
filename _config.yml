@@ -2,14 +2,13 @@
 name: Bram Vandenbussche
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Bram Vandenbussche. Dad of 5, loving husband, quite into security, something to do with software engineering and all-around tech geek. 
+tagline: 'Hiya, I'm Bram Vandenbussche. Dad of 5 energetic kids 🧒, loving husband to <a href="start.sofielambrecht.be" target="_blank">Sofie Lambrecht</a> 👩, quite into security 🛡, something to do with software engineering 💻 and all-around tech geek 🤓.'
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://secure.gravatar.com/avatar/966ffc611efed95e5f9189873f63d295?s=640
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://source.unsplash.com/random/?software,code
-
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
