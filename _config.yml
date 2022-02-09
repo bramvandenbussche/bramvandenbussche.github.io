@@ -43,26 +43,19 @@ links:
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
 
-    # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: bramvandenbussche
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
-
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:bram@vandenbussche.me'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
-
     # REDDIT
   - Name: Reddit
     URL: http://reddit.com/u
     Username: vandenbusscheb
     Color: '#FF4500'
     Icon-Class: fab fa-reddit-alien
+
+    # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: bramvandenbussche
+    Color: '#6e5494'
+    Icon-Class: fab fa-github
 
   #   # WHATSAPP
   # - Name: WhatsApp
@@ -94,10 +87,17 @@ links:
   #   Icon-Class: fab fa-tiktok
 
     # CUSTOM LINK
-  - Name: Website
-    URL: https://bramvandenbussche.be
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
+  # - Name: Website
+  #   URL: https://bramvandenbussche.be
+  #   Icon-Class: fas fa-link
+  #   Color: '#ffb142'
+  #   Text_Color: '#ffffff'
+
+    # EMAIL
+  - Name: Email
+    URL: 'mailto:bram@vandenbussche.me'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
