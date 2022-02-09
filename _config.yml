@@ -144,3 +144,5 @@ baseurl: /
 
 # Default Markdown Engine
 markdown: kramdown
+
+google_analytics: UA-G-Q3FM9H7KTE
