@@ -6,9 +6,11 @@ layout: compress
 <html lang="en">
 
 <head>
-    {% include meta.html %}
+    {%include meta.html%}
 
-    {% include analytics.html %}
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+        {% include analytics.html %}
+    {% endif %}
 </head>
 
 <body class="w-screen h-screen min-h-screen">
