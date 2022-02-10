@@ -27,11 +27,19 @@
   Color: '#3b5998'
   Icon-Class: fab fa-facebook
 
+  # DISCORD
+- Name: Discord
+  URL: 'https://discord.gg'
+  Username: DrArb
+  Icon-Class: fab fa-discord
+  Color: '#5865F2'
+  Text_Color: '#ffffff'
+
   # GITHUB
 - Name: GitHub
   URL: http://github.com
   Username: bramvandenbussche
-  Color: '#6e5494'
+  Color: '#6422c5'
   Icon-Class: fab fa-github
 
   # REDDIT
@@ -47,14 +55,6 @@
   Username: 'arbje'
   Color: '#E60023'
   Icon-Class: fab fa-pinterest
-
-  # DISCORD
-- Name: Discord
-  URL: 'https://discord.gg'
-  Username: DrArb
-  Icon-Class: fab fa-discord
-  Color: '#5865F2'
-  Text_Color: '#ffffff'
 
 #    # TIKTOK
 # - Name: TikTok
