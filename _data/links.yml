@@ -29,8 +29,8 @@
 
   # DISCORD
 - Name: Discord
-  URL: 'https://discord.gg'
-  Username: DrArb
+  URL: 'https://discordapp.com/users/'
+  Username: 8442
   Icon-Class: fab fa-discord
   Color: '#5865F2'
   Text_Color: '#ffffff'
