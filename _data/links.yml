@@ -1,9 +1,3 @@
-  # FACEBOOK
-- Name: Facebook
-  URL: https://www.facebook.com
-  Username: bramensofie
-  Color: '#3b5998'
-  Icon-Class: fab fa-facebook
 
   # INSTAGRAM
 - Name: Instagram
@@ -26,12 +20,12 @@
   Color: '#2867B2'
   Icon-Class: fab fa-linkedin-in
 
-  # REDDIT
-- Name: Reddit
-  URL: http://reddit.com/u
-  Username: vandenbusscheb
-  Color: '#FF4500'
-  Icon-Class: fab fa-reddit-alien
+  # FACEBOOK
+- Name: Facebook
+  URL: https://www.facebook.com
+  Username: bramensofie
+  Color: '#3b5998'
+  Icon-Class: fab fa-facebook
 
   # GITHUB
 - Name: GitHub
@@ -40,20 +34,12 @@
   Color: '#6e5494'
   Icon-Class: fab fa-github
 
-#   # WHATSAPP
-# - Name: WhatsApp
-#   URL: https://wa.me
-#   Username: '+1123456789'
-#   Color: '#25d366'
-#   Icon-Class: fab fa-whatsapp
-
-#   # DISCORD
-# - Name: Discord
-#   URL: 'https://discord.gg'
-#   Username: 
-#   Icon-Class: fab fa-discord
-#   Color: '#5865F2'
-#   Text_Color: '#ffffff'
+  # REDDIT
+- Name: Reddit
+  URL: http://reddit.com/u
+  Username: vandenbusscheb
+  Color: '#FF4500'
+  Icon-Class: fab fa-reddit-alien
 
   # PINTEREST
 - Name: Pinterest
@@ -61,6 +47,14 @@
   Username: 'arbje'
   Color: '#E60023'
   Icon-Class: fab fa-pinterest
+
+  # DISCORD
+- Name: Discord
+  URL: 'https://discord.gg'
+  Username: DrArb
+  Icon-Class: fab fa-discord
+  Color: '#5865F2'
+  Text_Color: '#ffffff'
 
 #    # TIKTOK
 # - Name: TikTok
@@ -80,5 +74,5 @@
 - Name: Email
   URL: 'mailto:bram@vandenbussche.me'
   Icon-Class: fas fa-envelope
-  Color: '#e17055'
+  Color: '#02aacb'
   Text_Color: '#ffffff'
