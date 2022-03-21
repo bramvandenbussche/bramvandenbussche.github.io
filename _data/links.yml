@@ -55,6 +55,13 @@
   Username: 'arbje'
   Color: '#E60023'
   Icon-Class: fab fa-pinterest
+  
+  # PINTEREST
+- Name: Books
+  URL: https://books.bramvandenbussche.be
+  Color: '#eed7ab'
+  Text-Color: '#333333'
+  Icon-Class: fas fa-book-open
 
 #    # TIKTOK
 # - Name: TikTok
